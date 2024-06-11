@@ -5,6 +5,4 @@ physics problems.
 Writing for use in github can be found:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
 <br>
-'''math
-\sum \overset{\scriptscriptstyle \rightharpoonup}{F}=m\overset{\scriptscriptstyle \rightharpoonup}{a}=\frac{ \mathrm{d} \overset{\scriptscriptstyle \rightharpoonup}{p}}{ \mathrm{d} t}
-'''
+$$\sum \overset{\scriptscriptstyle \rightharpoonup}{F}=m\overset{\scriptscriptstyle \rightharpoonup}{a}=\frac{ \mathrm{d} \overset{\scriptscriptstyle \rightharpoonup}{p}}{ \mathrm{d} t}$$
