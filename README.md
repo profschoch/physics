@@ -7,3 +7,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 <br>
 Equations can be embedded in a github document by using LaTex markup.  The equation block must just be preceeded by a double dollar sign and end with a double dollar sign.
 $$\sum \overset{\scriptscriptstyle \rightharpoonup}{F}=m\overset{\scriptscriptstyle \rightharpoonup}{a}=\frac{ \mathrm{d} \overset{\scriptscriptstyle \rightharpoonup}{p}}{ \mathrm{d} t}$$
+<br>
+Added text to show activity.
